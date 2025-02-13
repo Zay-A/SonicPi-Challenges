@@ -30,7 +30,7 @@ end
 
 sleep 8
 
-live_loop :beat2 do
+live_loop :beat3 do
   use_bpm 160
   use_synth :saw
   play :c3
